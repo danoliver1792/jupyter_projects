@@ -1,5 +1,5 @@
 <h1>IPCA</h1>
-<p>Temos, neste repositório, o gráfico do IPCA (ìndice Nacional de Preços ao Consumidor Amplo) entre os anos de 1980 e 2022.</p>
+<p>Temos, neste repositório, o gráfico do IPCA (ìndice Nacional de Preços ao Consumidor Amplo) entre os anos de 1980 e 2022 consumindo a API do Banco Central do Brasil.</p>
 <p>O IPCA tem por objetivo medir a inflação de um conjunto de produtos e serviços comercializados no varejo, referentes ao consumo pessoal das famílias. Esta faixa de renda foi criada com o ojetivo de garantir uma cobertura de 90% das famílias pertecentes às áreas urbanas de cobertura do Sistema Nacional de Índices de Preços ao Consumidor - SNIPC.</p>
 <p>Este índice de preços tem como unidade de coleta estabelecimentos comerciais e de prestação de serviços, concessionária de serviços públicos e internet e sua coleta estende-se, em geral, do dia 01 a 30 do mês de referência.</p>
 <br/>
